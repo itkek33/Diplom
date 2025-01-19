@@ -9,7 +9,7 @@ import sqlite3
 
 
 #создание переменной с ботом и токеном
-bot =  telebot.TeleBot("")
+bot =  telebot.TeleBot("6604939799:AAEbeeFw2_u7XygHlIVRZ_QarHPiOfGwSS4")
 
 
 #настройки парсинга с помощью selenium и ChromeDriver
